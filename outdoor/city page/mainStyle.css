@@ -1,0 +1,128 @@
+@media all and (min-width:480px) {
+    #header-box {
+   
+    width: 400px !important;
+   
+    
+   /* 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 150px;
+    padding: 10px 15px;
+    margin: 0px;*/
+}
+
+#header-box >.sub-heading {
+    text-transform: uppercase;
+    font-size: 1.5em !important;
+}
+
+#header-box >.main-heading {
+    
+    font-size:3.8em !important;
+}
+}
+
+#header-box {
+/*    text-decoration: underline;*/
+    border:#fff solid;
+    border-width: 2px;
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    color:#fff;
+    padding:20px;
+    text-align: center;
+    width: 300px;
+/*    text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.75);*/
+    
+}
+
+#header-box >.sub-heading {
+    
+    text-transform: uppercase;
+    font-size: 1.1em;
+}
+
+#header-box >.main-heading {
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 2.8em;
+}
+
+section .row-fluid {
+    padding: 0px 0px;
+}
+
+.banner-container {
+    margin-bottom: 0px;
+}
+
+.awesome-title {
+    padding:10px 0px;
+}
+
+#allEvents {
+    
+}
+
+#filters {
+    float: right;
+    margin:20px 0px;
+}
+
+#filters>.filters-heading{
+    font-size:0.9em;
+    max-width: 200px !important;
+    text-align: left;
+}
+
+
+@media screen and (min-width:768px) {
+    #filters > .filters-heading{
+        text-align: left;
+    max-width:400px !important;
+}
+}
+
+#money-no-money {
+    background-color: #fff;
+    
+    color:#cccccc;
+    margin:0px 30px 0px 0px;
+    padding:13px 0px;
+    border: solid #cfcfcf;
+    border-width: 1px;
+}
+
+#money-no-money > .btn:hover{
+    color: #52babe;
+        
+}
+
+#money-yes {
+    border-right:solid #cfcfcf;
+    border-width:1px;
+}
+.active-money {
+    color: #52babe;
+}
+
+.btn-group > .bootstrap-select {
+    border-radius: 0px;
+}
+
+.btn.dropdown-toggle{
+    
+    width:150px;
+    z-index:50;
+    border-radius: 0px;
+    border: solid #cfcfcf;
+    border-width: 1px;
+    background-color: #fff;
+    padding:14px 10px;
+}
+
+

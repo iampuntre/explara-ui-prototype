@@ -1,0 +1,233 @@
+.section-footer {
+  clear: both; }
+  .section-footer .section_2 {
+    margin: 0 auto; }
+    @media all and (min-width: 768px) {
+      .section-footer .section_2 {
+        width: 100%;
+        min-width: 768px;
+        max-width: 1410px;
+        margin-left: auto;
+        margin-right: auto; } }
+    @media all and (max-width: 1200px) {
+      .section-footer .section_2 {
+        width: 100%; } }
+    @media all and (min-width: 768px) and (max-width: 800px) {
+      .section-footer .section_2 {
+        min-width: 100% !important; } }
+  .section-footer .foot-top-bar {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: #fcc32c; }
+    .section-footer .foot-top-bar .section_2 {
+      margin: 0 auto; }
+      @media all and (min-width: 768px) {
+        .section-footer .foot-top-bar .section_2 {
+          width: 100%;
+          min-width: 768px;
+          max-width: 1410px;
+          margin-left: auto;
+          margin-right: auto; } }
+      @media all and (max-width: 1200px) {
+        .section-footer .foot-top-bar .section_2 {
+          width: 100%; } }
+      .section-footer .foot-top-bar .section_2 .top-bar {
+        padding: 15px 0; }
+        @media all and (min-width: 1542px) {
+          .section-footer .foot-top-bar .section_2 .top-bar .form {
+            padding-top: 20px; } }
+        @media all and (min-width: 768px) and (max-width: 780px) {
+          .section-footer .foot-top-bar .section_2 .top-bar .form {
+            padding-right: 0; } }
+        .section-footer .foot-top-bar .section_2 .top-bar .form .txt-head {
+          font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+          font-weight: 400;
+          font-size: 20px;
+          float: left;
+          margin: 10px 10px 10px 0; }
+          @media all and (min-width: 768px) and (max-width: 1542px) {
+            .section-footer .foot-top-bar .section_2 .top-bar .form .txt-head {
+              float: none; } }
+          @media all and (max-width: 767px) {
+            .section-footer .foot-top-bar .section_2 .top-bar .form .txt-head {
+              font-size: 18px;
+              float: none; } }
+        .section-footer .foot-top-bar .section_2 .top-bar .form .form-group div {
+          float: none;
+          display: inline-block;
+          padding-right: 10px;
+          vertical-align: middle; }
+          .section-footer .foot-top-bar .section_2 .top-bar .form .form-group div input {
+            max-width: 270px;
+            height: 40px; }
+            .section-footer .foot-top-bar .section_2 .top-bar .form .form-group div input::-webkit-input-placeholder {
+              font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+              font-weight: 400;
+              font-size: 14px; }
+            .section-footer .foot-top-bar .section_2 .top-bar .form .form-group div input:-moz-placeholder {
+              font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+              font-weight: 400;
+              font-size: 14px; }
+            .section-footer .foot-top-bar .section_2 .top-bar .form .form-group div input::-moz-placeholder {
+              font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+              font-weight: 400;
+              font-size: 14px; }
+            .section-footer .foot-top-bar .section_2 .top-bar .form .form-group div input:-ms-input-placeholder {
+              font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+              font-weight: 400;
+              font-size: 14px; }
+          .section-footer .foot-top-bar .section_2 .top-bar .form .form-group div button {
+            width: 100%;
+            max-width: 135px;
+            height: 40px;
+            background-color: #52babe;
+            color: #fff;
+            font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+            font-weight: 500;
+            font-size: 16px;
+            text-transform: uppercase;
+            border-radius: 4px;
+            transition: all 200ms;
+            outline: none;
+            border: none; }
+            .section-footer .foot-top-bar .section_2 .top-bar .form .form-group div button:hover {
+              background-color: #52cace; }
+          @media all and (max-width: 767px) {
+            .section-footer .foot-top-bar .section_2 .top-bar .form .form-group div {
+              display: block;
+              margin-bottom: 10px; } }
+        .section-footer .foot-top-bar .section_2 .top-bar .socials {
+          text-align: right; }
+          @media all and (min-width: 1542px) {
+            .section-footer .foot-top-bar .section_2 .top-bar .socials {
+              padding-top: 20px; } }
+          .section-footer .foot-top-bar .section_2 .top-bar .socials .follow-text {
+            display: inline;
+            vertical-align: middle;
+            font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+            font-weight: 400;
+            font-size: 20px;
+            padding-right: 0;
+            padding-top: 4px;
+            margin-right: 15px;
+            line-height: 40px; }
+            @media all and (min-width: 768px) and (max-width: 1542px) {
+              .section-footer .foot-top-bar .section_2 .top-bar .socials .follow-text {
+                display: block;
+                padding-right: 8px; } }
+          .section-footer .foot-top-bar .section_2 .top-bar .socials .follow-icons {
+            display: inline;
+            float: none;
+            vertical-align: middle; }
+            .section-footer .foot-top-bar .section_2 .top-bar .socials .follow-icons a span {
+              width: 34px;
+              height: 34px;
+              padding: 2px;
+              background-color: #FFF;
+              -webkit-border-radius: 100%;
+              -moz-border-radius: 100%;
+              border-radius: 100%;
+              font-size: 24px;
+              float: right;
+              margin-right: 8px; }
+              .section-footer .foot-top-bar .section_2 .top-bar .socials .follow-icons a span .fa-facebook {
+                padding: 3px 8px;
+                color: #405d9a; }
+              .section-footer .foot-top-bar .section_2 .top-bar .socials .follow-icons a span .fa-twitter {
+                padding: 3px 5px;
+                color: #00acee; }
+              .section-footer .foot-top-bar .section_2 .top-bar .socials .follow-icons a span .fa-google-plus {
+                padding: 3px 5px;
+                color: #e05d4d; }
+        @media all and (max-width: 767px) {
+          .section-footer .foot-top-bar .section_2 .top-bar {
+            padding: 15px; } }
+  .section-footer .foot-content {
+    margin: 20px auto 10px auto; }
+    .section-footer .foot-content div {
+      padding: 0; }
+      .section-footer .foot-content div h3 {
+        font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+        font-weight: 400;
+        font-size: 20px;
+        font-style: normal;
+        margin-bottom: 15px; }
+        @media all and (max-width: 768px) {
+          .section-footer .foot-content div h3 {
+            font-size: 18px; } }
+      .section-footer .foot-content div ul {
+        list-style-type: none;
+        padding: 0; }
+        .section-footer .foot-content div ul li {
+          margin-bottom: 10px; }
+          .section-footer .foot-content div ul li a {
+            font-family: 'Gotham Rounded SSm A', 'Gotham Rounded SSm B';
+            font-weight: 400;
+            font-size: 14px;
+            font-style: normal;
+            color: #777;
+            text-decoration: none; }
+            .section-footer .foot-content div ul li a:hover {
+              color: #3dc6c4; }
+            @media all and (max-width: 768px) {
+              .section-footer .foot-content div ul li a {
+                font-size: 14px; } }
+      @media all and (max-width: 768px) {
+        .section-footer .foot-content div {
+          padding: 0 15px;
+          margin: 0 auto; } }
+    .section-footer .foot-content div.bottom-tagline {
+      padding: 20px 15px 0 10px; }
+      .section-footer .foot-content div.bottom-tagline span {
+        font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+        font-weight: 400;
+        font-size: 14px;
+        font-style: normal;
+        color: #777;
+        border-right: 2px solid #ccc;
+        padding-right: 5px;
+        padding-left: 5px;
+        display: inline-block;
+        text-align: left; }
+        .section-footer .foot-content div.bottom-tagline span a {
+          color: #777;
+          text-decoration: none; }
+          .section-footer .foot-content div.bottom-tagline span a:hover {
+            color: #3dc6c4; }
+        .section-footer .foot-content div.bottom-tagline span:first-child {
+          padding-left: 0; }
+        .section-footer .foot-content div.bottom-tagline span:nth-of-type(1) {
+          width: auto;
+          display: block;
+          text-align: left;
+          border: none;
+          margin-bottom: 10px; }
+        .section-footer .foot-content div.bottom-tagline span:nth-of-type(6) {
+          border: none; }
+        @media all and (min-width: 768px) {
+          .section-footer .foot-content div.bottom-tagline span {
+            padding-left: 0; } }
+        @media all and (max-width: 768px) {
+          .section-footer .foot-content div.bottom-tagline span {
+            font-size: 14px;
+            width: 121px;
+            text-align: left;
+            margin-bottom: 5px; } }
+      .section-footer .foot-content div.bottom-tagline div {
+        font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B';
+        font-weight: 400;
+        font-size: 16px; }
+        @media all and (max-width: 768px) {
+          .section-footer .foot-content div.bottom-tagline div {
+            font-size: 14px;
+            margin-top: 10px;
+            padding-left: 0; } }
+        @media all and (max-width: 480px) {
+          .section-footer .foot-content div.bottom-tagline div {
+            font-size: 11px;
+            padding-right: 0; } }
+    .section-footer .foot-content .trust-img {
+      float: right;
+      padding: 0;
+      margin-top: 30px; }

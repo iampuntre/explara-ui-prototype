@@ -1,0 +1,168 @@
+/*
+Note that there is a /outdoor/img/spritesheet.png;
+Added just to show that the icons are working. 
+Can be removed, as in the original file the url is maintained.
+
+*/
+
+
+body {
+    font-family: "Gotham Narrow SSm A","Gotham Narrow SSm B";
+}
+
+.section_1 .row .banner-container #banner #banner-content #secondary span, .section_1 .row .banner-container .banner #banner-content #secondary span
+{
+     text-transform:uppercase;   
+}
+
+.section_1 .row .banner-container #banner #banner-overlay, .section_1 .row .banner-container .banner #banner-overlay {
+}
+.banner-container {
+    margin-bottom: 30px;
+}
+
+.red-circle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: #DB4344;
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.feature {
+    font-family: 'Open Sans', sans-serif;
+    margin: 40px 0px;
+}
+
+
+.feature-title {
+    font-weight: 600;
+    color:#0d0c0c;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 1.3em;
+    margin:10px 0;     
+}
+
+.feature-content {
+    color:#0d0c0c;
+    text-align: center;
+    margin: 0px 0;
+    padding:10px 0px;
+    font-size: 0.9em;
+}
+
+.awesome-title {
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #777;
+    font-size:1.5em;
+    margin: 30px 0 30px;
+}
+
+.awesome-title > .awesome-link {
+        transition: all 200ms; 
+        text-decoration: underline;
+        text-transform: uppercase;
+        color:#DF4D4E;
+}
+
+.awesome-title > .awesome-link:hover,
+.awesome-title > .awesome-link:active {
+    color:#c00
+}
+
+.travel-tips .travel-container{
+    font-family: "Gotham Narrow SSm A","Gotham Narrow SSm B";
+    color:#fff;
+    position: absolute;
+    overflow: hidden;
+    text-align: justify;
+    bottom:0;
+    left:0;
+    padding:10px 40px 10px 10px;
+}
+
+.travel-tips .travel-container h3 {
+    margin:0 0;
+    text-transform: capitalize;
+    font-size:1.1em;
+}
+
+.travel-tips .travel-container p {
+    font-size: 0.8em;
+}
+
+.h-new-card.shrink {
+    height: 140px !important;
+}
+@media screen and (min-width:767px) {
+    .travel-tips {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 100%;
+    
+}
+     .h-new-card.shrink {
+        height: 140px !important;
+    }
+    
+}
+
+@media screen and (min-width:1200px) {
+     .h-new-card.shrink {
+        height: 230px !important;
+    }
+}
+
+a.read-more-btn {
+    height: 40px;
+    max-width: 100%;
+    padding: 0px 10px;
+    font-family: "Gotham Narrow SSm A","Gotham Narrow SSm B";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #FFF;
+    border: medium none;
+    background-color: #DB4344;
+    transition: all 0.3s ease 0s;
+}
+
+a.read-more-btn:hover{
+    color:#fff;
+    background-color: #FF5F5F;
+}
+
+a.read-more-btn:focus {
+    color:#fff;
+    background-color: #c00;
+}
+
+section .row-fluid{
+    padding: 30px 0px;  
+}
+
+
+@media screen and (min-width:767px) {
+    .home_new-banner #banner-content .banner-heading .h-banner-heading span{
+        font-size:3.8em !important;
+    }
+    
+    .section_1 .row .banner-container #banner #banner-content span, .section_1 .row .banner-container .banner #banner-content span
+    {
+        font-size:3.8em;
+    }
+}
+
+@media screen and (max-width:767px) {
+        .h-banner-heading span {
+    font-size: 2.5em !important;
+    color: #FFF !important;
+}
+}

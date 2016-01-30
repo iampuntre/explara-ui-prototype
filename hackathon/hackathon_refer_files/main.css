@@ -1,0 +1,1699 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<i class="icon-home"></i>
+```
+*/
+.icon-bell {
+  background-image: url(../img/spritesheet.png);
+  background-position: -166px -66px;
+  width: 22px;
+  height: 28px; }
+
+.icon-cal-icon {
+  background-image: url(../img/spritesheet.png);
+  background-position: -217px -66px;
+  width: 31px;
+  height: 27px; }
+
+.icon-circle {
+  background-image: url(../img/spritesheet.png);
+  background-position: -169px -95px;
+  width: 14px;
+  height: 11px; }
+
+.icon-close_40 {
+  background-image: url(../img/spritesheet.png);
+  background-position: -55px 0px;
+  width: 40px;
+  height: 40px; }
+
+.icon-coupon-edit {
+  background-image: url(../img/spritesheet.png);
+  background-position: -95px -75px;
+  width: 18px;
+  height: 18px; }
+
+.icon-dollar {
+  background-image: url(../img/spritesheet.png);
+  background-position: -248px -66px;
+  width: 15px;
+  height: 26px; }
+
+.icon-down-arrow {
+  background-image: url(../img/spritesheet.png);
+  background-position: -263px -66px;
+  width: 25px;
+  height: 25px; }
+
+.icon-edit {
+  background-image: url(../img/spritesheet.png);
+  background-position: -257px -35px;
+  width: 30px;
+  height: 30px; }
+
+.icon-f {
+  background-image: url(../img/spritesheet.png);
+  background-position: -344px -66px;
+  width: 10px;
+  height: 21px; }
+
+.icon-fb {
+  background-image: url(../img/spritesheet.png);
+  background-position: -135px -66px;
+  width: 31px;
+  height: 28px; }
+
+.icon-follow-check-white {
+  background-image: url(../img/spritesheet.png);
+  background-position: -113px -75px;
+  width: 20px;
+  height: 16px; }
+
+.icon-follow-check {
+  background-image: url(../img/spritesheet.png);
+  background-position: -149px -95px;
+  width: 20px;
+  height: 16px; }
+
+.icon-form-check {
+  background-image: url(../img/spritesheet.png);
+  background-position: -40px -55px;
+  width: 40px;
+  height: 40px; }
+
+.icon-free {
+  background-image: url(../img/spritesheet.png);
+  background-position: -188px -66px;
+  width: 29px;
+  height: 28px; }
+
+.icon-gheart {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px -95px;
+  width: 28px;
+  height: 24px; }
+
+.icon-gplus {
+  background-image: url(../img/spritesheet.png);
+  background-position: -287px -35px;
+  width: 30px;
+  height: 30px; }
+
+.icon-heart {
+  background-image: url(../img/spritesheet.png);
+  background-position: -28px -95px;
+  width: 28px;
+  height: 24px; }
+
+.icon-heart1 {
+  background-image: url(../img/spritesheet.png);
+  background-position: -55px -40px;
+  width: 17px;
+  height: 15px; }
+
+.icon-heart2 {
+  background-image: url(../img/spritesheet.png);
+  background-position: -72px -40px;
+  width: 17px;
+  height: 15px; }
+
+.icon-ln {
+  background-image: url(../img/spritesheet.png);
+  background-position: -317px -35px;
+  width: 30px;
+  height: 30px; }
+
+.icon-logo {
+  background-image: url(../img/spritesheet.png);
+  background-position: -135px 0px;
+  width: 221px;
+  height: 35px; }
+
+.icon-mail {
+  background-image: url(../img/spritesheet.png);
+  background-position: -118px -95px;
+  width: 31px;
+  height: 17px; }
+
+.icon-menu_40 {
+  background-image: url(../img/spritesheet.png);
+  background-position: -95px 0px;
+  width: 40px;
+  height: 40px; }
+
+.icon-number {
+  background-image: url(../img/spritesheet.png);
+  background-position: -288px -66px;
+  width: 31px;
+  height: 25px; }
+
+.icon-pin {
+  background-image: url(../img/spritesheet.png);
+  background-position: -197px -35px;
+  width: 30px;
+  height: 30px; }
+
+.icon-right-arrow {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px 0px;
+  width: 55px;
+  height: 55px; }
+
+.icon-search {
+  background-image: url(../img/spritesheet.png);
+  background-position: -319px -66px;
+  width: 25px;
+  height: 25px; }
+
+.icon-search_40 {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px -55px;
+  width: 40px;
+  height: 40px; }
+
+.icon-small-logo {
+  background-image: url(../img/spritesheet.png);
+  background-position: -95px -40px;
+  width: 37px;
+  height: 35px; }
+
+.icon-small-ticket-icon {
+  background-image: url(../img/spritesheet.png);
+  background-position: -80px -79px;
+  width: 12px;
+  height: 12px; }
+
+.icon-tick {
+  background-image: url(../img/spritesheet.png);
+  background-position: -80px -67px;
+  width: 14px;
+  height: 12px; }
+
+.icon-ticket-icon {
+  background-image: url(../img/spritesheet.png);
+  background-position: -135px -35px;
+  width: 31px;
+  height: 31px; }
+
+.icon-time-icon {
+  background-image: url(../img/spritesheet.png);
+  background-position: -80px -55px;
+  width: 12px;
+  height: 12px; }
+
+.icon-twitter-white {
+  background-image: url(../img/spritesheet.png);
+  background-position: -227px -35px;
+  width: 30px;
+  height: 30px; }
+
+.icon-twitter2 {
+  background-image: url(../img/spritesheet.png);
+  background-position: -87px -95px;
+  width: 31px;
+  height: 22px; }
+
+.icon-url {
+  background-image: url(../img/spritesheet.png);
+  background-position: -56px -95px;
+  width: 31px;
+  height: 23px; }
+
+.icon-venue-icon {
+  background-image: url(../img/spritesheet.png);
+  background-position: -166px -35px;
+  width: 31px;
+  height: 31px; }
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+@font-face {
+  font-family: gothamRLight;
+  src: url("../fonts/GothamRnd-Light.otf"); }
+@font-face {
+  font-family: gothamRBold;
+  src: url("../fonts/gotham-rounded-bold.otf"); }
+@font-face {
+  font-family: gothamRBook;
+  src: url("../fonts/gotham-rounded-book.otf"); }
+@font-face {
+  font-family: gothamRMedium;
+  src: url("../fonts/gotham-rounded-medium.otf"); }
+@font-face {
+  font-family: opensansRegular;
+  src: url("../fonts/OpenSans-Regular.ttf"); }
+@font-face {
+  font-family: helveticaNeue;
+  src: url("../fonts/HelveticaNeueLTStd-Roman.otf"); }
+@font-face {
+  font-family: georigaItalic;
+  src: url("../fonts/Georgiai.ttf"); }
+@font-face {
+  font-family: SourceSansProRegular;
+  src: url("../fonts/SourceSansPro-Regular.ttf"); }
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+html {
+  overflow-y: scroll; }
+
+body {
+  margin: 0;
+  font-size: 16px;
+  transition: all 500ms;
+  background-color: #f6f6f6;
+  font-family: 'gothamRBook'; }
+
+.container-fluid {
+  padding: 0;
+  overflow: hidden; }
+
+/* section_1 starts here */
+.section_1 {
+  width: 100%;
+  background-color: #fff;
+  /* row starts here */ }
+  .section_1 .nav-container {
+    overflow: hidden;
+    border-bottom: 1px solid #ccc;
+    padding: 5px 0; }
+    .section_1 .nav-container #logo-container img {
+      position: relative; }
+      @media all and (min-width: 900px) {
+        .section_1 .nav-container #logo-container img {
+          transform: scale(0.8); } }
+      @media all and (max-width: 385px) {
+        .section_1 .nav-container #logo-container img {
+          top: 10px; } }
+    .section_1 .nav-container .heading span {
+      text-transform: uppercase;
+      font-family: 'gothamRBook';
+      font-size: .9em;
+      position: relative;
+      top: 6px; }
+    .section_1 .nav-container #contact-us {
+      display: none;
+      text-align: right;
+      position: relative;
+      top: 6px; }
+      .section_1 .nav-container #contact-us span {
+        float: right;
+        font-size: .9em;
+        text-transform: uppercase; }
+        .section_1 .nav-container #contact-us span:first-child {
+          color: #db4344;
+          margin-left: 5px; }
+      @media all and (min-width: 969px) {
+        .section_1 .nav-container #contact-us {
+          display: block; } }
+  .section_1 .event {
+    width: 100%;
+    background-color: #fff;
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+    z-index: 99; }
+    @media all and (min-width: 768px) {
+      .section_1 .event {
+        padding: 0;
+        height: 85px;
+        line-height: 85px; } }
+    .section_1 .event #event-thumbnail {
+      text-align: center;
+      padding: 0 15px; }
+      @media all and (min-width: 739px) {
+        .section_1 .event #event-thumbnail {
+          float: left; } }
+      @media all and (min-width: 768px) {
+        .section_1 .event #event-thumbnail {
+          display: inline-block;
+          position: relative; }
+          .section_1 .event #event-thumbnail img {
+            width: 160px; } }
+    .section_1 .event #event-info {
+      margin-top: 20px;
+      padding: 0 15px; }
+      @media all and (min-width: 739px) {
+        .section_1 .event #event-info {
+          margin-top: 0px; } }
+      @media all and (min-width: 768px) {
+        .section_1 .event #event-info {
+          display: inline-block;
+          padding-left: 0;
+          position: relative;
+          top: 15px;
+          line-height: initial; } }
+      .section_1 .event #event-info span {
+        display: block;
+        font-family: 'gothamRBook';
+        margin-bottom: 5px; }
+        .section_1 .event #event-info span:nth-child(n+2) {
+          color: #777; }
+        .section_1 .event #event-info span:last-child {
+          margin-bottom: 0; }
+        @media all and (max-width: 738px) {
+          .section_1 .event #event-info span {
+            text-align: center; } }
+        @media all and (min-width: 768px) {
+          .section_1 .event #event-info span {
+            font-size: .8em; } }
+    .section_1 .event #price-dropdown {
+      line-height: initial;
+      width: 200px;
+      height: 84px;
+      float: right;
+      background-color: #fff;
+      display: inline-block;
+      top: 46px;
+      right: 0;
+      border-left: 1px solid #ccc; }
+      @media all and (max-width: 767px) {
+        .section_1 .event #price-dropdown {
+          display: none; } }
+      @media all and (min-width: 820px) {
+        .section_1 .event #price-dropdown {
+          width: 250px; } }
+      .section_1 .event #price-dropdown .price-section {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        cursor: pointer; }
+        .section_1 .event #price-dropdown .price-section div {
+          display: inline-block; }
+          .section_1 .event #price-dropdown .price-section div:first-child {
+            position: relative;
+            top: 19px;
+            left: 25px;
+            float: left; }
+            @media all and (min-width: 820px) {
+              .section_1 .event #price-dropdown .price-section div:first-child {
+                left: 50px; } }
+            .section_1 .event #price-dropdown .price-section div:first-child span {
+              display: block; }
+              .section_1 .event #price-dropdown .price-section div:first-child span:first-child {
+                text-transform: uppercase;
+                font-size: .75em; }
+              .section_1 .event #price-dropdown .price-section div:first-child span:last-child {
+                font-family: 'gothamRMedium';
+                font-size: 1.3em; }
+          .section_1 .event #price-dropdown .price-section div:last-child {
+            position: relative;
+            top: 30px;
+            right: 15px;
+            float: right; }
+      .section_1 .event #price-dropdown #dropdown {
+        display: none;
+        position: absolute;
+        width: 200px;
+        background: #fff;
+        z-index: 10;
+        border: 1px solid #ccc;
+        border-top: none;
+        border-right: none;
+        right: 0;
+        padding: 15px 0;
+        border-bottom-left-radius: 5px; }
+        @media all and (min-width: 820px) {
+          .section_1 .event #price-dropdown #dropdown {
+            width: 250px; } }
+        .section_1 .event #price-dropdown #dropdown #ticket-summary #sub-total, .section_1 .event #price-dropdown #dropdown #ticket-summary #process-fee, .section_1 .event #price-dropdown #dropdown #ticket-summary #discount-total {
+          clear: both;
+          overflow: hidden;
+          font-size: .9em;
+          padding: 5px; }
+          @media all and (min-width: 820px) {
+            .section_1 .event #price-dropdown #dropdown #ticket-summary #sub-total, .section_1 .event #price-dropdown #dropdown #ticket-summary #process-fee, .section_1 .event #price-dropdown #dropdown #ticket-summary #discount-total {
+              padding: 5px 15px;
+              font-size: 1em; } }
+          .section_1 .event #price-dropdown #dropdown #ticket-summary #sub-total div:first-child, .section_1 .event #price-dropdown #dropdown #ticket-summary #process-fee div:first-child, .section_1 .event #price-dropdown #dropdown #ticket-summary #discount-total div:first-child {
+            float: left;
+            text-transform: capitalize; }
+          .section_1 .event #price-dropdown #dropdown #ticket-summary #sub-total div:last-child, .section_1 .event #price-dropdown #dropdown #ticket-summary #process-fee div:last-child, .section_1 .event #price-dropdown #dropdown #ticket-summary #discount-total div:last-child {
+            float: right;
+            width: 70px;
+            text-transform: uppercase; }
+            .section_1 .event #price-dropdown #dropdown #ticket-summary #sub-total div:last-child span:first-child, .section_1 .event #price-dropdown #dropdown #ticket-summary #process-fee div:last-child span:first-child, .section_1 .event #price-dropdown #dropdown #ticket-summary #discount-total div:last-child span:first-child {
+              float: left; }
+            .section_1 .event #price-dropdown #dropdown #ticket-summary #sub-total div:last-child span:last-child, .section_1 .event #price-dropdown #dropdown #ticket-summary #process-fee div:last-child span:last-child, .section_1 .event #price-dropdown #dropdown #ticket-summary #discount-total div:last-child span:last-child {
+              float: right; }
+        .section_1 .event #price-dropdown #dropdown #proceed-button {
+          margin-top: 20px;
+          display: block;
+          height: 40px;
+          width: 75%;
+          margin: 0 auto;
+          font-family: 'gothamRBook';
+          text-transform: uppercase;
+          clear: both;
+          background-color: #db4344;
+          color: #fff;
+          border: none;
+          outline: none;
+          border-radius: 4px;
+          letter-spacing: 1px;
+          transition: all 200ms;
+          text-align: center;
+          line-height: 40px;
+          cursor: pointer;
+          max-width: 180px;
+          width: 100px;
+          height: 30px;
+          line-height: 30px;
+          font-size: .85em;
+          float: right;
+          margin: 15px 5px; }
+          @media all and (min-width: 768px) {
+            .section_1 .event #price-dropdown #dropdown #proceed-button:hover {
+              background-color: #ff5f5f; } }
+          .section_1 .event #price-dropdown #dropdown #proceed-button:active {
+            background-color: #cc0000; }
+          @media all and (min-width: 820px) {
+            .section_1 .event #price-dropdown #dropdown #proceed-button {
+              width: 130px;
+              height: 35px;
+              line-height: 35px;
+              margin: 20px 15px;
+              font-size: 1em; } }
+        .section_1 .event #price-dropdown #dropdown #time-expire {
+          display: none;
+          clear: both;
+          text-transform: uppercase;
+          font-size: .8em;
+          text-align: right;
+          padding-right: 5px;
+          color: #db4344; }
+          @media all and (min-width: 820px) {
+            .section_1 .event #price-dropdown #dropdown #time-expire {
+              font-size: .9em;
+              padding-right: 15px; } }
+
+/* section_1 ends here */
+.section_2 {
+  margin-top: 15px;
+  padding-bottom: 30px; }
+  @media all and (min-width: 768px) {
+    .section_2 {
+      margin-top: 25px;
+      width: 70.3%;
+      min-width: 768px;
+      max-width: 1350px;
+      margin-left: auto;
+      margin-right: auto; } }
+  .section_2 #forms #form1 .title-bar {
+    overflow: hidden;
+    height: 60px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    margin: 0 auto;
+    margin-left: 2.5%;
+    margin-right: 2.5%; }
+    .section_2 #forms #form1 .title-bar .form-number {
+      color: #52babe;
+      font-family: gothamRMedium;
+      float: left;
+      width: 40px;
+      height: 40px;
+      border: 2px solid #52babe;
+      text-align: center;
+      line-height: 36px;
+      border-radius: 50%;
+      position: relative;
+      top: 10px;
+      font-size: 1.5em;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form1 .title-bar .form-number {
+          margin-right: 10px; } }
+    .section_2 #forms #form1 .title-bar .form-check {
+      display: none;
+      float: left;
+      position: relative;
+      top: 10px;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form1 .title-bar .form-check {
+          margin-right: 10px; } }
+    .section_2 #forms #form1 .title-bar .heading {
+      float: left;
+      font-family: 'gothamRMedium';
+      text-transform: uppercase;
+      line-height: 60px; }
+      @media all and (max-width: 327px) {
+        .section_2 #forms #form1 .title-bar .heading {
+          font-size: .9em; } }
+    .section_2 #forms #form1 .title-bar .edit {
+      float: right;
+      display: inline-block;
+      position: relative;
+      height: 46px;
+      top: 7px;
+      cursor: pointer;
+      display: none;
+      transform: scale(0.75); }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form1 .title-bar .edit:hover {
+          opacity: .75; } }
+      .section_2 #forms #form1 .title-bar .edit div {
+        font-size: .7em;
+        font-family: 'gothamRBook';
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        position: relative;
+        top: 3px; }
+  .section_2 #forms #form1 .content-box {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    padding: 30px 0;
+    font-family: 'gothamRBook'; }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form1 .content-box {
+        padding: 25px 0; } }
+    .section_2 #forms #form1 .content-box .wrapper {
+      margin: 0 auto; }
+    .section_2 #forms #form1 .content-box .proceed {
+      margin-top: 20px;
+      display: block;
+      height: 40px;
+      width: 75%;
+      margin: 0 auto;
+      font-family: 'gothamRBook';
+      text-transform: uppercase;
+      clear: both;
+      background-color: #db4344;
+      color: #fff;
+      border: none;
+      outline: none;
+      border-radius: 4px;
+      letter-spacing: 1px;
+      transition: all 200ms;
+      text-align: center;
+      line-height: 40px;
+      cursor: pointer;
+      max-width: 180px;
+      margin: 0 auto; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form1 .content-box .proceed:hover {
+          background-color: #ff5f5f; } }
+      .section_2 #forms #form1 .content-box .proceed:active {
+        background-color: #cc0000; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form1 .content-box .proceed {
+          position: relative;
+          float: right;
+          right: 25px; } }
+          
+    .section_2 #forms #form5 .title-bar {
+    overflow: hidden;
+    height: 60px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    margin: 0 auto;
+    margin-left: 2.5%;
+    margin-right: 2.5%; }
+    .section_2 #forms #form5 .title-bar .form-number {
+      color: #52babe;
+      font-family: gothamRMedium;
+      float: left;
+      width: 40px;
+      height: 40px;
+      border: 2px solid #52babe;
+      text-align: center;
+      line-height: 36px;
+      border-radius: 50%;
+      position: relative;
+      top: 10px;
+      font-size: 1.5em;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form5 .title-bar .form-number {
+          margin-right: 10px; } }
+    .section_2 #forms #form5 .title-bar .form-check {
+      display: none;
+      float: left;
+      position: relative;
+      top: 10px;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form5 .title-bar .form-check {
+          margin-right: 10px; } }
+    .section_2 #forms #form5 .title-bar .heading {
+      float: left;
+      font-family: 'gothamRMedium';
+      text-transform: uppercase;
+      line-height: 60px; }
+      @media all and (max-width: 327px) {
+        .section_2 #forms #form5 .title-bar .heading {
+          font-size: .9em; } }
+    .section_2 #forms #form5 .title-bar .edit {
+      float: right;
+      display: inline-block;
+      position: relative;
+      height: 46px;
+      top: 7px;
+      cursor: pointer;
+      display: none;
+      transform: scale(0.75); }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form5 .title-bar .edit:hover {
+          opacity: .75; } }
+      .section_2 #forms #form5 .title-bar .edit div {
+        font-size: .7em;
+        font-family: 'gothamRBook';
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        position: relative;
+        top: 3px; }
+  .section_2 #forms #form5 .content-box {
+  	display: none;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    padding: 30px 0;
+    font-family: 'gothamRBook'; }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form5 .content-box {
+        padding: 25px 0; } }
+    .section_2 #forms #form5 .content-box .wrapper {
+      margin: 0 auto; }
+    .section_2 #forms #form5 .content-box .proceed {
+      margin-top: 20px;
+      display: block;
+      height: 40px;
+      width: 75%;
+      margin: 0 auto;
+      font-family: 'gothamRBook';
+      text-transform: uppercase;
+      clear: both;
+      background-color: #db4344;
+      color: #fff;
+      border: none;
+      outline: none;
+      border-radius: 4px;
+      letter-spacing: 1px;
+      transition: all 200ms;
+      text-align: center;
+      line-height: 40px;
+      cursor: pointer;
+      max-width: 180px;
+      margin: 0 auto; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form5 .content-box .proceed:hover {
+          background-color: #ff5f5f; } }
+      .section_2 #forms #form5 .content-box .proceed:active {
+        background-color: #cc0000; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form5 .content-box .proceed {
+          position: relative;
+          float: right;
+          right: 25px; } }
+          
+    .section_2 #forms #form1 .content-box #type1 .ticket-type {
+      float: left;
+      text-transform: uppercase;
+      font-family: 'gothamRMedium';
+      position: relative;
+      top: 4px; }
+    .section_2 #forms #form1 .content-box #type1 .number {
+      float: right; }
+      .section_2 #forms #form1 .content-box #type1 .number .select, .section_2 #forms #form1 .content-box #type1 .number .cross, .section_2 #forms #form1 .content-box #type1 .number .price {
+        float: right;
+        margin-right: 10px;
+        line-height: 30px; }
+      .section_2 #forms #form1 .content-box #type1 .number .select {
+        margin-right: 0; }
+        .section_2 #forms #form1 .content-box #type1 .number .select select {
+          border: 1px solid #ccc;
+          border-radius: 4px;
+          outline: none;
+          color: #333; }
+    .section_2 #forms #form1 .content-box #type1-description {
+      font-size: .85em;
+      color: #999;
+      margin-bottom: 25px; }
+      .section_2 #forms #form1 .content-box #type1-description .time {
+        color: #555;
+        margin-top: 5px; }
+        .section_2 #forms #form1 .content-box #type1-description .time .icon-time-icon {
+          float: left;
+          position: relative;
+          top: 4px;
+          margin-right: 10px; }
+    .section_2 #forms #form1 .content-box #type2 .ticket-type {
+      float: left;
+      text-transform: uppercase;
+      font-family: 'gothamRMedium';
+      position: relative;
+      top: 4px; }
+    .section_2 #forms #form1 .content-box #type2 .number {
+      float: right; }
+      .section_2 #forms #form1 .content-box #type2 .number .select, .section_2 #forms #form1 .content-box #type2 .number .cross, .section_2 #forms #form1 .content-box #type2 .number .price {
+        float: right;
+        margin-right: 10px;
+        line-height: 30px; }
+      .section_2 #forms #form1 .content-box #type2 .number .select {
+        margin-right: 0; }
+        .section_2 #forms #form1 .content-box #type2 .number .select select {
+          border: 1px solid #ccc;
+          border-radius: 4px;
+          outline: none;
+          color: #333; }
+    .section_2 #forms #form1 .content-box #type2-description {
+      font-size: .85em;
+      color: #999;
+      margin-bottom: 25px; }
+      .section_2 #forms #form1 .content-box #type2-description .time {
+        color: #555;
+        margin-top: 5px; }
+        .section_2 #forms #form1 .content-box #type2-description .time .icon-time-icon {
+          float: left;
+          position: relative;
+          top: 4px;
+          margin-right: 10px; }
+      .section_2 #forms #form1 .content-box #type2-description #discount {
+        color: #555;
+        margin-top: 5px; }
+        .section_2 #forms #form1 .content-box #type2-description #discount .icon-small-ticket-icon {
+          float: left;
+          position: relative;
+          top: 4px;
+          margin-right: 10px; }
+    .section_2 #forms #form1 .content-box #summary {
+      padding: 10px 15px;
+      border-top: 1px solid #eee; }
+      .section_2 #forms #form1 .content-box #summary .heading {
+        font-size: 1em;
+        margin-bottom: 15px;
+        text-align: center; }
+        @media all and (min-width: 768px) {
+          .section_2 #forms #form1 .content-box #summary .heading {
+            display: none; } }
+      .section_2 #forms #form1 .content-box #summary .sub-total, .section_2 #forms #form1 .content-box #summary .process-fee, .section_2 #forms #form1 .content-box #summary .discount {
+        clear: both; }
+        .section_2 #forms #form1 .content-box #summary .sub-total .div-wrapper, .section_2 #forms #form1 .content-box #summary .process-fee .div-wrapper, .section_2 #forms #form1 .content-box #summary .discount .div-wrapper {
+          max-width: 400px;
+          overflow: hidden;
+          margin: 10px auto;
+          font-size: .85em; }
+          .section_2 #forms #form1 .content-box #summary .sub-total .div-wrapper .subdiv1, .section_2 #forms #form1 .content-box #summary .process-fee .div-wrapper .subdiv1, .section_2 #forms #form1 .content-box #summary .discount .div-wrapper .subdiv1 {
+            float: left;
+            text-transform: capitalize; }
+          .section_2 #forms #form1 .content-box #summary .sub-total .div-wrapper .subdiv2, .section_2 #forms #form1 .content-box #summary .process-fee .div-wrapper .subdiv2, .section_2 #forms #form1 .content-box #summary .discount .div-wrapper .subdiv2 {
+            float: right;
+            width: 80px;
+            text-transform: uppercase; }
+            .section_2 #forms #form1 .content-box #summary .sub-total .div-wrapper .subdiv2 span:first-child, .section_2 #forms #form1 .content-box #summary .process-fee .div-wrapper .subdiv2 span:first-child, .section_2 #forms #form1 .content-box #summary .discount .div-wrapper .subdiv2 span:first-child {
+              float: left; }
+            .section_2 #forms #form1 .content-box #summary .sub-total .div-wrapper .subdiv2 span:last-child, .section_2 #forms #form1 .content-box #summary .process-fee .div-wrapper .subdiv2 span:last-child, .section_2 #forms #form1 .content-box #summary .discount .div-wrapper .subdiv2 span:last-child {
+              float: right; }
+      .section_2 #forms #form1 .content-box #summary .discount .div-wrapper {
+        margin-bottom: 0; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form1 .content-box #summary {
+          max-width: 300px;
+          float: right;
+          right: 25px;
+          border: 1px solid #eee;
+          border-bottom: none; } }
+    .section_2 #forms #form1 .content-box #total {
+      padding: 5px 15px;
+      border-bottom: 1px solid #eee;
+      border-top: 1px solid #eee;
+      font-family: 'gothamRMedium';
+      margin-bottom: 20px; }
+      .section_2 #forms #form1 .content-box #total .div-wrapper {
+        max-width: 400px;
+        overflow: hidden;
+        margin: 10px auto;
+        font-size: 1em; }
+        .section_2 #forms #form1 .content-box #total .div-wrapper .subdiv1 {
+          float: left;
+          text-transform: uppercase; }
+        .section_2 #forms #form1 .content-box #total .div-wrapper .subdiv2 {
+          float: right;
+          width: 80px;
+          text-transform: uppercase; }
+          .section_2 #forms #form1 .content-box #total .div-wrapper .subdiv2 span:first-child {
+            float: left; }
+          .section_2 #forms #form1 .content-box #total .div-wrapper .subdiv2 span:last-child {
+            float: right; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form1 .content-box #total {
+          max-width: 300px;
+          clear: both;
+          float: right;
+          right: 25px;
+          margin-bottom: 30px;
+          border: 1px solid #eee; } }
+    .section_2 #forms #form1 .content-box #coupon #coupon-wrapper {
+      display: none;
+      border: 1px solid #52babe;
+      height: 35px;
+      line-height: 35px;
+      border-radius: 4px;
+      width: 300px;
+      margin: 20px auto;
+      overflow: hidden; }
+      @media all and (max-width: 330px) {
+        .section_2 #forms #form1 .content-box #coupon #coupon-wrapper {
+          width: 280px; } }
+    .section_2 #forms #form1 .content-box #coupon input {
+      font-size: .75em;
+      border: none;
+      outline: none;
+      height: 100%;
+      float: left;
+      padding: 0 0 0 10px;
+      width: 80%; }
+      @media all and (max-width: 330px) {
+        .section_2 #forms #form1 .content-box #coupon input {
+          font-size: .75em; } }
+    .section_2 #forms #form1 .content-box #coupon label {
+      text-transform: uppercase;
+      font-size: .8em;
+      background-color: #52babe;
+      float: right;
+      padding: 0 5px;
+      height: 100%;
+      color: #fff;
+      width: 20%;
+      letter-spacing: .5px;
+      cursor: pointer;
+      text-align: center; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form1 .content-box #coupon label:hover {
+          background-color: #70d5d9; } }
+      .section_2 #forms #form1 .content-box #coupon label:active {
+        background-color: #009c9a; }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form1 .content-box #coupon {
+        max-width: 350px;
+        padding: 0 25px; }
+        .section_2 #forms #form1 .content-box #coupon #coupon-wrapper {
+          margin: 0 auto; } }
+    .section_2 #forms #form1 .content-box #coupon #pre-text, .section_2 #forms #form1 .content-box #coupon #post-text {
+      color: #52babe;
+      font-size: .9em;
+      cursor: pointer;
+      margin: 0; }
+      @media all and (max-width: 767px) {
+        .section_2 #forms #form1 .content-box #coupon #pre-text, .section_2 #forms #form1 .content-box #coupon #post-text {
+          text-align: center;
+          margin: 20px 0;
+          height: 20px; } }
+    .section_2 #forms #form1 .content-box #coupon #post-text {
+      display: none;
+      cursor: initial; }
+      .section_2 #forms #form1 .content-box #coupon #post-text span {
+        float: left; }
+      .section_2 #forms #form1 .content-box #coupon #post-text .icon-coupon-edit {
+        float: right;
+        margin-right: 50px;
+        transform: scale(0.75);
+        position: relative;
+        cursor: pointer; }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form1 .content-box .ticket-type-box {
+        padding: 0 25px; } }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form1 .content-box .ticket-description {
+        padding: 0 25px 25px 25px;
+        margin-bottom: 0 !important;
+        border-bottom: 1px solid #eee; } }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form1 .content-box #type2 {
+        padding-top: 25px; } }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form1 .content-box #type2-description {
+        margin-bottom: 25px !important; } }
+    .section_2 #forms #form1 .content-box .refund-text {
+      clear: both;
+      margin: 0 auto;
+      margin-top: 30px;
+      font-size: .75em;
+      padding: 0 25px; }
+      .section_2 #forms #form1 .content-box .refund-text span:nth-child(2) {
+        font-family: 'gothamRMedium'; }
+      .section_2 #forms #form1 .content-box .refund-text span:nth-child(4) a {
+        color: #52babe;
+        text-decoration: none; }
+  .section_2 #forms #form2 .title-bar {
+    overflow: hidden;
+    height: 60px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    margin: 0 auto;
+    margin-left: 2.5%;
+    margin-right: 2.5%; }
+    .section_2 #forms #form2 .title-bar .form-number {
+      color: #52babe;
+      font-family: gothamRMedium;
+      float: left;
+      width: 40px;
+      height: 40px;
+      border: 2px solid #52babe;
+      text-align: center;
+      line-height: 36px;
+      border-radius: 50%;
+      position: relative;
+      top: 10px;
+      font-size: 1.5em;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form2 .title-bar .form-number {
+          margin-right: 10px; } }
+    .section_2 #forms #form2 .title-bar .form-check {
+      display: none;
+      float: left;
+      position: relative;
+      top: 10px;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form2 .title-bar .form-check {
+          margin-right: 10px; } }
+    .section_2 #forms #form2 .title-bar .heading {
+      float: left;
+      font-family: 'gothamRMedium';
+      text-transform: uppercase;
+      line-height: 60px; }
+      @media all and (max-width: 327px) {
+        .section_2 #forms #form2 .title-bar .heading {
+          font-size: .9em; } }
+    .section_2 #forms #form2 .title-bar .edit {
+      float: right;
+      display: inline-block;
+      position: relative;
+      height: 46px;
+      top: 7px;
+      cursor: pointer;
+      display: none;
+      transform: scale(0.75); }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form2 .title-bar .edit:hover {
+          opacity: .75; } }
+      .section_2 #forms #form2 .title-bar .edit div {
+        font-size: .7em;
+        font-family: 'gothamRBook';
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        position: relative;
+        top: 3px; }
+  .section_2 #forms #form2 .content-box {
+    display: none;
+    width: 100%;
+    background-color: #fff;
+    padding: 30px 0;
+    border-bottom: 1px solid #ccc; }
+    .section_2 #forms #form2 .content-box .wrapper {
+      max-width: 250px;
+      margin-left: auto;
+      margin-right: auto; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form2 .content-box .wrapper {
+          max-width: calc(100% - 50px);
+          overflow: hidden; } }
+    .section_2 #forms #form2 .content-box #email, .section_2 #forms #form2 .content-box #name, .section_2 #forms #form2 .content-box #num {
+      margin-top: 20px; }
+      .section_2 #forms #form2 .content-box #email input, .section_2 #forms #form2 .content-box #name input, .section_2 #forms #form2 .content-box #num input {
+        display: block;
+        width: 100%;
+        height: 45px;
+        border-radius: 5px;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        padding: 15px;
+        font-family: 'SourceSansProRegular';
+        outline: none;
+        letter-spacing: .3px; }
+        .section_2 #forms #form2 .content-box #email input:focus, .section_2 #forms #form2 .content-box #name input:focus, .section_2 #forms #form2 .content-box #num input:focus {
+          border: 1px solid rgba(0, 0, 0, 0.3); }
+    .section_2 #forms #form2 .content-box .proceed {
+      margin-top: 20px;
+      display: block;
+      height: 40px;
+      width: 75%;
+      margin: 0 auto;
+      font-family: 'gothamRBook';
+      text-transform: uppercase;
+      clear: both;
+      background-color: #db4344;
+      color: #fff;
+      border: none;
+      outline: none;
+      border-radius: 4px;
+      letter-spacing: 1px;
+      transition: all 200ms;
+      text-align: center;
+      line-height: 40px;
+      cursor: pointer;
+      max-width: 180px;
+      margin-top: 20px; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form2 .content-box .proceed:hover {
+          background-color: #ff5f5f; } }
+      .section_2 #forms #form2 .content-box .proceed:active {
+        background-color: #cc0000; }
+    .section_2 #forms #form2 .content-box #check {
+      width: 100%;
+      margin: 20px auto;
+      overflow: hidden; }
+      .section_2 #forms #form2 .content-box #check input {
+        display: inline-block;
+        width: auto;
+        height: auto;
+        margin-top: 4px;
+        float: left; }
+      .section_2 #forms #form2 .content-box #check label {
+        font-family: 'gothamRBook';
+        float: left;
+        color: rgba(0, 0, 0, 0.5); }
+      .section_2 #forms #form2 .content-box #check input[type=checkbox].css-checkbox {
+        position: absolute;
+        z-index: -1000;
+        left: -1000px;
+        overflow: hidden;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        width: 1px;
+        margin: -1px;
+        padding: 0;
+        border: 0; }
+      .section_2 #forms #form2 .content-box #check input[type=checkbox].css-checkbox + label.css-label, .section_2 #forms #form2 .content-box #check input[type=checkbox].css-checkbox + label.css-label.clr {
+        padding-left: 35px;
+        height: 20px;
+        display: inline-block;
+        line-height: 20px;
+        background-repeat: no-repeat;
+        background-position: 0 0;
+        font-size: .9em;
+        vertical-align: middle;
+        cursor: pointer; }
+      .section_2 #forms #form2 .content-box #check input[type=checkbox].css-checkbox:checked + label.css-label, .section_2 #forms #form2 .content-box #check input[type=checkbox].css-checkbox + label.css-label.chk {
+        background-position: 0 -20px; }
+      .section_2 #forms #form2 .content-box #check label.css-label {
+        background-image: url(http://csscheckbox.com/checkboxes/u/csscheckbox_2ba7661e47bcf2b03bed55b51535a7fc.png);
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none; }
+    .section_2 #forms #form2 .content-box #separator {
+      display: block;
+      margin: 30px auto;
+      text-align: center;
+      color: #8f8f8f;
+      font-size: 1.3em;
+      font-family: 'georigaItalic'; }
+    .section_2 #forms #form2 .content-box #fb_sign_in_box {
+      background: #647baa;
+      /* Old browsers */
+      background: -moz-linear-gradient(top, #647baa 0%, #445f96 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #647baa), color-stop(100%, #445f96));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, #647baa 0%, #445f96 100%);
+      /* Chrome10+,Safari5.1+ */
+      background: -o-linear-gradient(top, #647baa 0%, #445f96 100%);
+      /* Opera 11.10+ */
+      background: -ms-linear-gradient(top, #647baa 0%, #445f96 100%);
+      /* IE10+ */
+      background: linear-gradient(to bottom, #647baa 0%, #445f96 100%);
+      /* W3C */
+      margin: 0 auto;
+      cursor: pointer;
+      border-radius: 5px;
+      width: 225px;
+      height: 45px;
+      line-height: 45px; }
+      .section_2 #forms #form2 .content-box #fb_sign_in_box .items {
+        position: relative; }
+        .section_2 #forms #form2 .content-box #fb_sign_in_box .items:first-child {
+          float: left;
+          width: 45px;
+          text-align: center;
+          border-right: 1px solid rgba(255, 255, 255, 0.15); }
+          .section_2 #forms #form2 .content-box #fb_sign_in_box .items:first-child img {
+            transform: scale(0.85); }
+        .section_2 #forms #form2 .content-box #fb_sign_in_box .items:last-child {
+          float: right;
+          color: #fff;
+          right: 15px;
+          font-family: 'helveticaNeue';
+          font-size: .9em;
+          letter-spacing: .3px; }
+    .section_2 #forms #form2 .content-box #text {
+      width: 90%;
+      max-width: 350px;
+      margin: 20px auto 0;
+      text-align: center;
+      display: block;
+      font-family: 'gothamRBook';
+      font-size: .8em; }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form2 .content-box #fb-section {
+        width: 50%;
+        float: left;
+        height: 350px;
+        padding-top: 44px; }
+        .section_2 #forms #form2 .content-box #fb-section #text {
+          margin-top: 30px; }
+        .section_2 #forms #form2 .content-box #fb-section #separator {
+          font-size: 1.4em; } }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form2 .content-box #form-section {
+        width: 50%;
+        float: right;
+        border-left: 1px solid #ccc; }
+        .section_2 #forms #form2 .content-box #form-section form {
+          max-width: 300px;
+          margin: auto; }
+          .section_2 #forms #form2 .content-box #form-section form .proceed {
+            float: right;
+            margin-top: 0; } }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form2 .content-box #email, .section_2 #forms #form2 .content-box #check, .section_2 #forms #form2 .content-box #name, .section_2 #forms #form2 .content-box #num {
+        max-width: 300px;
+        margin: 30px auto; } }
+  .section_2 #forms #form3 .title-bar {
+    overflow: hidden;
+    height: 60px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    margin: 0 auto;
+    margin-left: 2.5%;
+    margin-right: 2.5%; }
+    .section_2 #forms #form3 .title-bar .form-number {
+      color: #52babe;
+      font-family: gothamRMedium;
+      float: left;
+      width: 40px;
+      height: 40px;
+      border: 2px solid #52babe;
+      text-align: center;
+      line-height: 36px;
+      border-radius: 50%;
+      position: relative;
+      top: 10px;
+      font-size: 1.5em;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form3 .title-bar .form-number {
+          margin-right: 10px; } }
+    .section_2 #forms #form3 .title-bar .form-check {
+      display: none;
+      float: left;
+      position: relative;
+      top: 10px;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form3 .title-bar .form-check {
+          margin-right: 10px; } }
+    .section_2 #forms #form3 .title-bar .heading {
+      float: left;
+      font-family: 'gothamRMedium';
+      text-transform: uppercase;
+      line-height: 60px; }
+      @media all and (max-width: 327px) {
+        .section_2 #forms #form3 .title-bar .heading {
+          font-size: .9em; } }
+    .section_2 #forms #form3 .title-bar .edit {
+      float: right;
+      display: inline-block;
+      position: relative;
+      height: 46px;
+      top: 7px;
+      cursor: pointer;
+      display: none;
+      transform: scale(0.75); }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form3 .title-bar .edit:hover {
+          opacity: .75; } }
+      .section_2 #forms #form3 .title-bar .edit div {
+        font-size: .7em;
+        font-family: 'gothamRBook';
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        position: relative;
+        top: 3px; }
+  .section_2 #forms #form3 .content-box {
+    display: none;
+    width: 100%;
+    background-color: #fff;
+    padding: 30px 0;
+    border-bottom: 1px solid #ccc; }
+    .section_2 #forms #form3 .content-box .wrapper {
+      max-width: 250px;
+      margin-left: auto;
+      margin-right: auto; }
+    .section_2 #forms #form3 .content-box .attendee {
+      margin-bottom: 30px; }
+      .section_2 #forms #form3 .content-box .attendee .heading {
+        font-family: 'gothamRBook';
+        text-transform: uppercase;
+        font-size: 1.3em;
+        margin-bottom: 20px; }
+      .section_2 #forms #form3 .content-box .attendee input {
+        margin-top: 20px;
+        display: block;
+        width: 100%;
+        height: 45px;
+        border-radius: 5px;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        padding: 15px;
+        font-family: 'SourceSansProRegular';
+        outline: none;
+        letter-spacing: .3px; }
+        .section_2 #forms #form3 .content-box .attendee input:focus {
+          border: 1px solid rgba(0, 0, 0, 0.3); }
+    .section_2 #forms #form3 .content-box:nth-last-child(2) {
+      margin-bottom: 20px; }
+    .section_2 #forms #form3 .content-box .proceed {
+      margin-top: 20px;
+      display: block;
+      height: 40px;
+      width: 75%;
+      margin: 0 auto;
+      font-family: 'gothamRBook';
+      text-transform: uppercase;
+      clear: both;
+      background-color: #db4344;
+      color: #fff;
+      border: none;
+      outline: none;
+      border-radius: 4px;
+      letter-spacing: 1px;
+      transition: all 200ms;
+      text-align: center;
+      line-height: 40px;
+      cursor: pointer;
+      max-width: 180px; }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form3 .content-box .proceed:hover {
+          background-color: #ff5f5f; } }
+      .section_2 #forms #form3 .content-box .proceed:active {
+        background-color: #cc0000; }
+    @media all and (min-width: 768px) {
+      .section_2 #forms #form3 .content-box .wrapper {
+        max-width: calc(100% - 50px); }
+        .section_2 #forms #form3 .content-box .wrapper input {
+          max-width: 250px;
+          margin-top: 0;
+          margin-bottom: 20px; }
+        .section_2 #forms #form3 .content-box .wrapper .input-boxes {
+          width: 515px;
+          column-count: 2;
+          height: 195px; }
+        .section_2 #forms #form3 .content-box .wrapper .proceed {
+          margin: 0;
+          margin-left: auto; } }
+  .section_2 #forms #form4 .title-bar {
+    overflow: hidden;
+    height: 60px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    margin: 0 auto;
+    margin-left: 2.5%;
+    margin-right: 2.5%; }
+    .section_2 #forms #form4 .title-bar .form-number {
+      color: #52babe;
+      font-family: gothamRMedium;
+      float: left;
+      width: 40px;
+      height: 40px;
+      border: 2px solid #52babe;
+      text-align: center;
+      line-height: 36px;
+      border-radius: 50%;
+      position: relative;
+      top: 10px;
+      font-size: 1.5em;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form4 .title-bar .form-number {
+          margin-right: 10px; } }
+    .section_2 #forms #form4 .title-bar .form-check {
+      display: none;
+      float: left;
+      position: relative;
+      top: 10px;
+      margin-right: 20px; }
+      @media all and (max-width: 340px) {
+        .section_2 #forms #form4 .title-bar .form-check {
+          margin-right: 10px; } }
+    .section_2 #forms #form4 .title-bar .heading {
+      float: left;
+      font-family: 'gothamRMedium';
+      text-transform: uppercase;
+      line-height: 60px; }
+      @media all and (max-width: 327px) {
+        .section_2 #forms #form4 .title-bar .heading {
+          font-size: .9em; } }
+    .section_2 #forms #form4 .title-bar .edit {
+      float: right;
+      display: inline-block;
+      position: relative;
+      height: 46px;
+      top: 7px;
+      cursor: pointer;
+      display: none;
+      transform: scale(0.75); }
+      @media all and (min-width: 768px) {
+        .section_2 #forms #form4 .title-bar .edit:hover {
+          opacity: .75; } }
+      .section_2 #forms #form4 .title-bar .edit div {
+        font-size: .7em;
+        font-family: 'gothamRBook';
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        position: relative;
+        top: 3px; }
+  .section_2 #forms #form4 .content-box {
+    display: none;
+    padding: 0 0 30px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc; }
+    .section_2 #forms #form4 .content-box .wrapper {
+      width: 100%;
+      margin: 0 auto; }
+      .section_2 #forms #form4 .content-box .wrapper #tabs {
+        height: 45px;
+        line-height: 45px;
+        border-bottom: 1px solid #52babe; }
+        .section_2 #forms #form4 .content-box .wrapper #tabs .tab {
+          padding: 0;
+          text-transform: uppercase;
+          font-family: 'gothamRBook';
+          text-align: center;
+          border-bottom: 3px solid transparent;
+          position: relative;
+          top: -3px;
+          letter-spacing: .3px;
+          cursor: pointer; }
+          @media all and (max-width: 420px) {
+            .section_2 #forms #form4 .content-box .wrapper #tabs .tab {
+              font-size: .85em; } }
+        .section_2 #forms #form4 .content-box .wrapper #tabs .active {
+          border-bottom: 3px solid #52babe;
+          color: #52babe;
+          font-family: 'gothamRMedium'; }
+      .section_2 #forms #form4 .content-box .wrapper #payment-gateway {
+        width: 100%;
+        min-height: 100px;
+        background-color: #fff; }
+  .section_2 #forms .active-form .title-bar {
+    width: 100%;
+    box-shadow: 0px 0px 1px 1px #ccc;
+    margin-left: 0 !important; }
+    .section_2 #forms .active-form .title-bar .session-expire {
+      display: block !important; }
+  .section_2 #forms .active-form .content-box {
+    position: relative;
+    z-index: 5;
+    box-shadow: 0px 1px 1px 1px #ccc; }
+  .section_2 #forms .unactive-form .title-bar {
+    width: 95%;
+    border: 1px solid #ccc;
+    border-bottom: none !important; }
+    .section_2 #forms .unactive-form .title-bar .session-expire {
+      display: none !important; }
+  .section_2 #forms .unactive-form #title-bar-4 {
+    border-bottom: 1px solid #ccc !important; }
+  .section_2 #forms .opened-once.unactive-form .title-bar .form-number {
+    display: none !important; }
+  
+  .section_2 #forms .opened-once.unactive-form .title-bar .edit {
+    display: block !important; }
+  .section_2 #forms .opened-once.unactive-form .title-bar .session-expire {
+    display: none !important; }
+  .section_2 #forms .opened-once.active-form .title-bar .form-number {
+    display: block !important; }
+  
+  .section_2 #forms .opened-once.active-form .title-bar .edit {
+    display: none !important; }
+
+@media all and (min-width: 768px) {
+  #proceed-wrapper {
+    width: 515px; }
+    #proceed-wrapper #proceed3 {
+      float: right; } }
+
+#tab1, #tab2, #tab3, #tab4, #tab5 {
+  overflow: auto; }
+
+#form1 .nav-tabs {
+  padding: 0;
+  border-left: 1px solid #CCC; }
+  #form1 .nav-tabs li {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #CCC; }
+    #form1 .nav-tabs li.active a {
+      font-family: gothamRMedium;
+      background-color: #3dc6c4;
+      color: #FFF;
+      margin: 0;
+      border: none; }
+      #form1 .nav-tabs li.active a img {
+        float: right;
+        visibility: visible; }
+      @media (max-width: 767px) {
+        #form1 .nav-tabs li.active a {
+          background-color: transparent;
+          color: #333; } }
+    #form1 .nav-tabs li a {
+      padding: 20px;
+      color: #333;
+      border-radius: 0;
+      margin: 0;
+      border: none;
+      text-transform: capitalize;
+      white-space: normal; }
+      #form1 .nav-tabs li a:hover {
+        background-color: #70d5d9;
+        margin: 0;
+        border: none; }
+        @media (max-width: 767px) {
+          #form1 .nav-tabs li a:hover {
+            background-color: transparent;
+            color: #333; } }
+      #form1 .nav-tabs li a img {
+        float: right;
+        visibility: hidden; }
+    #form1 .nav-tabs li.dropdown {
+      width: 70%;
+      height: auto;
+      float: none !important;
+      margin: 10px auto 15px auto;
+      border: 1px solid #ccc;
+      border-radius: 5px; }
+      #form1 .nav-tabs li.dropdown .dropdown-toggle {
+        padding: 12px !important; }
+        #form1 .nav-tabs li.dropdown .dropdown-toggle .caret {
+          float: right;
+          margin: 10px; }
+    #form1 .nav-tabs li.dropdown-menu {
+      width: 100%; }
+    #form1 .nav-tabs li.open > .dropdown-menu {
+      width: 100%;
+      padding: 0; }
+
+.tab-content {
+  padding: 0 !important; }
+  .tab-content .tab-pane {
+    padding-top: 25px; }
+    @media (min-width: 767px) {
+      .tab-content .tab-pane {
+        margin-bottom: 25px !important; } }
+    .tab-content .tab-pane.active {
+      padding-top: 25px;
+      border: 2px solid #3dc6c4; }
+
+.section_2 #forms #form1 .content-box #type2-description {
+  margin-bottom: 0 !important; }
+  @media (max-width: 767px) {
+    .section_2 #forms #form1 .content-box #type2-description {
+      margin-bottom: 25px !important; } }
+
+@media (max-width: 767px) {
+  .nav > li > a:hover, .nav > li > a:focus {
+    background-color: transparent; } }
+
+
+
+
+
+
+
+ /* New Styling */ 
+
+
+.content-box {
+    
+    margin-bottom: 20px;
+}
+.category {
+    margin:30px 0px;
+    text-align: center;
+}
+.line {
+    border-right:1px solid #ccc;
+}
+
+.line-bottom {
+    display: block;
+    
+    height: 1px;
+    width: 100%;
+    background-color: #ccc;
+/*    bac:1px solid #ccc;*/
+}
+
+#groupIcon{
+    border-right: 1px solid #ccc;
+}
+
+
+
+@media screen and (max-width:768px) {
+    #groupIcon  {
+     border-right: none;
+    }
+}
+
+.category .title {
+    margin-top: 10px;
+    
+    font-size:1.5em;
+    color:#777;
+}
+
+.group-main {
+    margin:30px 30px;
+}
+
+.red {
+    
+    line-height:50px;
+    padding: 6px 12px;
+    margin-bottom: 0px;
+    font-weight: 400;
+    border: 1px solid transparent;
+    border-radius: 4px;    
+    transition: all 200ms;
+    font-size: 1.4em;
+    text-align: left;
+    margin:10px 0px;
+    background-color: #d34344;
+    color:#fff;
+    
+    
+}
+
+.red .icon {
+    margin: 0 20px 0px 10px
+}
+
+ .red:hover{
+    color:#fff;
+   background-color: #ff5f5f; 
+}
+
+.red:focus {
+    color:#fff;
+}
+
+.red:active{
+    color:#fff;
+    background-color:  #cc0000 ;
+}
+
+
+.group-reg-form {
+    margin: 10px 0;
+}
+
+
+
+/*not working*/
+.icon { 
+    height: 32px;
+    z-index: 200;
+}
+
+.form-heading {
+    font-size:1em;
+    color:#777;
+    
+}
+
+.form-control{
+    background-color: #f1f1f1;
+}
+
+.form-heading > .form-group {
+    
+}
+
+@media screen and (max-width:480px) {
+  
+}
+
+
+    .group-main .row {
+        margin:20px 0;
+    }
+
+
+#createGroup .proceed{
+     text-transform: capitalize;
+}
+
+
+#passwordSection {
+    margin: 20px 0;
+    padding: 0;
+    font-size: 1em;
+}
+
+.red-font {
+    color: #ff5f5f;
+}
+
+#passwordSection a {
+    transition: all 200ms;
+    color: #ff5f5f;
+}
+
+#passwordSection a:hover,
+#passwordSection a:active
+{
+    color:#c00;
+}
+
+.red-small {
+    padding-right:20px;
+    padding-left:20px;
+    background-color: #d34344;
+    color:#fff;
+}
+
+
+.red-small:hover{
+    color:#fff;
+   background-color: #ff5f5f; 
+}
+
+.red-small:focus {
+    color:#fff;
+}
+
+.red-small:active{
+    color:#fff;
+    background-color:  #cc0000 ;
+}
+
+.red-small img.btn-icon {
+    padding-right: 10px;
+}
